@@ -1,42 +1,21 @@
-# [Academic Kickstart](https://sourcethemes.com/academic/)
+# Debrief on e-voting in Estonia
 
-**Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
+This is a fork of [a report on e-voting](https://www.mkm.ee/et/eesmargid-tegevused/infouhiskond/kuberturvalisus#evalimised) by government working group in the end of 2019. As a working group member I was not satisfied with the quality of the discussions but even more with the result, which failed to endorse any architectural changes to e-voting. This site is intendeded to fork and fix the failed official report in a manner comprehensible to local and international audiences, but also provide requirements to measure the future progress with e-voting in Estonia.
 
-**Academic Kickstart** provides a minimal template to kickstart your new website.
+Some of the background:
 
-- [**Get Started**](#install)
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+* [Debrief on e-voting in Estonia](https://events.ccc.de/congress/2019/wiki/index.php/Session:Debrief_on_e-voting_in_Estonia) (presentation @36c3, slides)
+* [Member of e-voting working group: for me the report was a failure](https://digi.geenius.ee/rubriik/uudis/e-valimiste-tooruhma-liige-loppraport-on-minu-jaoks-labikukkumine/) (in Estonian)
+* [Kingo's working group discovered 25 spots of worry in e-voting](https://tehnika.postimees.ee/6848342/loe-taismahus-kingo-tooruhm-avastas-e-valimistel-25-murekohta) (in Estonian)
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+## Scaling the report into e-voting index
 
-## Install
+My bold goal would be to scale my debrief forked from official report into an index of e-voting systems. I am composing my initial list of requirements keeping in mind that they will be modified, restructured and possibly forked for other purposes.
 
-You can choose from one of the following four methods to install:
+Some of the background:
 
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
+* [Netizen index of e-voting requirements](https://events.ccc.de/congress/2019/wiki/index.php/Projects:Netizen_index_of_e-voting_requirements) (project blueprint @36c3)
 
-Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
+## Discussion
 
-## Ecosystem
-
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
-
-## License
-
-Copyright 2017-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
-
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+You can [file issues](https://github.com/infoaed/evote-debrief/issues) or [jump into chatroom](https://matrix.to/#/!yEzuYNNdUIbMBFznJp:matrix.org?via=matrix.org) to discuss anything related. I also encourage you to [create pull requests](https://github.com/infoaed/evote-debrief/pulls), fork the site or use whatever means of communication to make sense of e-voting debates and push them in a reasonable direction.
