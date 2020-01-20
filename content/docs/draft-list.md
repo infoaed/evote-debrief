@@ -7,8 +7,6 @@ menu:
   docs:
     parent: Document pool
     weight: 5
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 5
 ---
 
@@ -23,7 +21,7 @@ I find these loosely differentiated categories meaningful to set requirements fo
 * [The Future of Voting: End-to-end Verifiable Internet Voting. Specification and Feasibility Assessment Study](https://github.com/GaloisInc/e2eviv/blob/master/report/E2EVIV_full_report.pdf) (2015)
 * [E-voting security work group report of Estonian Ministry of Economic Affairs and Communications](https://www.mkm.ee/sites/default/files/content-editors/e-valimiste_tooruhma_koondaruanne_12.12.2019_0.pdf) (2019, see also my [debrief initiative]( https://events.ccc.de/congress/2019/wiki/index.php/Session:Debrief_on_e-voting_in_Estonia))
 
-Under each of the categories I intend to write detailed accounts quoting relevant reports and documents.
+Under each of the categories I intend to write detailed accounts quoting relevant reports and documents. The result will be published as [index of requirements with progress indicators](https://github.com/infoaed/evote-debrief#debrief-on-e-voting-in-estonia), which may differ from requirements of any particular system, but should create a framework to assess those systems in relation to an ideal.
 
 ## Legal
 
