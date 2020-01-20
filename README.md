@@ -6,7 +6,7 @@ You can find [draft list](https://debriif.infoaed.ee/docs/draft-list/) in [docum
 
 Some of the background:
 
-* [Debrief on e-voting in Estonia](https://events.ccc.de/congress/2019/wiki/index.php/Session:Debrief_on_e-voting_in_Estonia) (presentation @36c3, slides)
+* [Debrief on e-voting in Estonia](https://events.ccc.de/congress/2019/wiki/index.php/Session:Debrief_on_e-voting_in_Estonia) (presentation @36c3, [slides](https://gafgaf.infoaed.ee/files/debrief_on_e-voting_in_estonia_36c3_28_12_2019.pdf))
 * [Member of e-voting working group: for me the report was a failure](https://digi.geenius.ee/rubriik/uudis/e-valimiste-tooruhma-liige-loppraport-on-minu-jaoks-labikukkumine/) (in Estonian)
 * [Kingo's working group discovered 25 spots of worry in e-voting](https://tehnika.postimees.ee/6848342/loe-taismahus-kingo-tooruhm-avastas-e-valimistel-25-murekohta) (in Estonian)
 * [Explaining my goals in working group and conditionally accepting to be member](https://gafgaf.infoaed.ee/posts/linnamyyr/) (in Estonian)
