@@ -47,24 +47,24 @@ Under each of the categories I intend to write detailed accounts quoting relevan
 * Voter's choice is secret throughout the process and there no way to prove a particular vote belonging to a voter
 * Tallying of the votes is observable in a way that voters and observers can verify that only votes of eligible voters were counted and none of them was missed
 * Local and international observers have full access to means of verification without a need to rely on operator or tools provided
-* Robust and comprehensive end-to-end verifiability is provided starting from casting the vote up to publishing of the election results
+* Robust and comprehensive end-to-end verifiability is provided starting from casting of the vote up to publishing of the election results
 
 ## Development
 
 * All documentation from memos of meetings to official reports on legal, procurement, analysis, evaluation, software, hardware, protocol etc aspects of e-voting is public, correct and easily approachable
 * E-voting is developed according to its publicly agreed goals based on long-term schedule enabling participation of local and international interest groups
 * Contracting authority has full understanding of technological as well as legal requirements, choices made during development are motivated and explained as such in documentation
-* Resources provided for development are stable and proportional, there is no conflict of interests between contracting authority, research providers and developers, procurements are public and inclusive
-* Electronic voting is developed with a future perspective to be compatible with technological advances and requirements for digital democracy 
+* Resources provided for development are stable and proportional, there is no conflicts of interest between contracting authority, research providers and developers, procurements are public and inclusive
+* Electronic voting is developed with a future perspective to be compatible with technological advancements and requirements for digital democracy 
 
 ## Technology
 
 * Technical risks related to software and hardware are systematically addressed according to written rules derived from security analysis based on legal and technical requirements
-* Integration with information systems providing list of voters, authentication, client drivers etc take account the security and accountability standards specific to e-voting
+* Integration with information systems providing list of voters, authentication, client drivers, etc. take into account the security and accountability standards specific to e-voting
 * Dependency to libraries, protocols and other software solutions follows the security standards, dependency to software controlled by third parties is minimal
-* Source code of all components of e-voting system is published along with the documentation following dedicated open source licenses and best practices
-* User interfaces take account the need for platform neutrality, accessibility, usability requirements, no unneeded limitations for platform, Internet connection etc are forced on voters
-* E-voting system is tested, audited and certified before using in elections, all its components have endured public scrutiny and intrusion testing
+* Source code of all components of the e-voting system is published along with the documentation following dedicated open source licenses and best practices
+* User interfaces take into account the need for platform neutrality, accessibility, usability requirements, no unneeded limitations for platform, Internet connection, etc. are forced on voters
+* The e-voting system is tested, audited and certified before using in elections, all its components have endured public scrutiny and intrusion testing
 
 ## Procedure
 
