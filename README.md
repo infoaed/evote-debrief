@@ -2,7 +2,7 @@
 
 This is a fork of [a report on e-voting](https://www.mkm.ee/et/eesmargid-tegevused/infouhiskond/kuberturvalisus#evalimised) by government working group in the end of 2019. As a working group member I was not satisfied with the quality of the discussions but even more with the result, which failed to endorse any architectural changes to e-voting. This site is intendeded to fork and fix the failed official report in a manner comprehensible to local and international audiences, but also provide requirements to measure the future progress with e-voting in Estonia.
 
-You can find [draft list](https://debriif.infoaed.ee/docs/draft-list/) in [document pool](https://github.com/infoaed/evote-debrief/tree/master/content/docs).
+You can find [draft list of requirements](https://debriif.infoaed.ee/docs/draft-list/) in [document pool](https://github.com/infoaed/evote-debrief/tree/master/content/docs).
 
 Some of the background:
 
